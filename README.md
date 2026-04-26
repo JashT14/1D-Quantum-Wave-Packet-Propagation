@@ -1,3 +1,5 @@
+# 1D-Quantum-Wave-Packet-Propagation
+using schrodingers, we generate gaussian wave packet and extract classical motions from expectation values
 # Wave Packet Simulation
 
 This project demonstrates 1D quantum wave packet propagation using the time-dependent Schrodinger equation.
