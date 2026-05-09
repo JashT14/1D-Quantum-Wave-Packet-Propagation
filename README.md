@@ -1,4 +1,7 @@
-# 1D-Quantum-Wave-Packet-Propagation
+# Project overview
+![Project info](info.png)
+
+## 1D-Quantum-Wave-Packet-Propagation
 using schrodingers, we generate gaussian wave packet and extract classical motions from expectation values
 # Wave Packet Simulation
 
